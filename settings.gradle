@@ -1,0 +1,1 @@
+include  ':gpsapp', ':baidumap', ':baidmapsample', ':baiduLocation'

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_mark.png",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/drawable-hdpi/icon_openmap_mark.png"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/drawable-hdpi/icon_openmap_focuse_mark.png",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/drawable-hdpi/icon_openmap_focuse_mark.png"
+    }
+]

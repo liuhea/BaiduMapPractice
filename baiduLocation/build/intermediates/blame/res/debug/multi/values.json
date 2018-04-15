@@ -1,0 +1,490 @@
+[
+    {
+        "outputFile": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 46,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 46,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 46,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 48,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 48,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 52,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 47,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 105,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 105,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 47,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 47,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 72,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 72,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 49,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 49,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endLine": 26,
+                    "endColumn": 28,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endLine": 30,
+                        "endColumn": 28,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 52,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 94,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 94,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 44,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 44,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 68,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 68,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endLine": 36,
+                    "endColumn": 17,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endLine": 37,
+                        "endColumn": 17,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 41,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 41,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 95,
+                    "endOffset": 1694
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 95,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1699,
+                    "endColumn": 50,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 50,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 46,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 46,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 49,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 49,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 45,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 45,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2339
+                },
+                "from": {
+                    "file": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

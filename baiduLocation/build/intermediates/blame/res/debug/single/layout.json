@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/notify.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/notify.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/autonotifyconfig.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/autonotifyconfig.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/locationfilter.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/locationfilter.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/locationalarm.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/locationalarm.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/activity_location.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/activity_location.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/location.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/location.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/quest_activity.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/quest_activity.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/function_list.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/function_list.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/hotwifi.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/hotwifi.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/locationconfig.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/locationconfig.xml"
+    },
+    {
+        "merged": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/build/intermediates/res/merged/debug/layout/foreground.xml",
+        "source": "/Users/liuhe/workspace/ASProjects/Interview-Practice/baiduLocation/src/main/res/layout/foreground.xml"
+    }
+]
